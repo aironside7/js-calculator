@@ -1,0 +1,39 @@
+.btn{
+    width: 80px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid yellow;
+    /* font-family: 'Bangers', cursive; */
+font-family: 'Quantico', sans-serif;
+background-color: rgb(234, 56, 175);
+}
+.field{
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid yellow;
+    
+}
+/* .btn1{
+    width: 80px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid yellow;
+    background-color: rgb(234, 56, 175);
+    font-family: 'Bangers', cursive;
+font-family: 'Quantico', sans-serif;
+    
+} */
+.main{
+    text-align: center;
+    background-color: rgb(71, 227, 211);
+    margin-left: 200px;
+    margin-right: 200px;
+    /* font-family: 'Bangers', cursive; */
+    font-family: 'Quantico', sans-serif;
+    font-size: 20px;
+
+}
